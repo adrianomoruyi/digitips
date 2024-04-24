@@ -1,1 +1,3 @@
+Digitips does not collect or store any personal data.
 
+If Digitips was installed from Google Play, then data may be collected by Google Play. See the Google Play privacy policy here: https://policies.google.com/privacy
